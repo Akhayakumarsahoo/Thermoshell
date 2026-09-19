@@ -1,0 +1,7 @@
+Metric,Unit,ANSYS_Workbench_FEA,ThermoShelter_RC_Model,Absolute_Difference,Relative_Difference_Pct,Validation_Status
+Rammed_Earth_Wall_U_Value,W/(m2*K),1.670,1.671,0.001,0.06,PASSED
+Insulated_Wall_U_Value_50mm_GlassWool,W/(m2*K),0.540,0.541,0.001,0.18,PASSED
+Insulated_Roof_U_Value_50mm_GlassWool,W/(m2*K),0.470,0.472,0.002,0.42,PASSED
+Conductive_Flux_A10m2_dT20C,Watts,334.0,334.4,0.4,0.12,PASSED
+Full_Envelope_Heat_Loss_dT20C,Watts,812.5,816.2,3.7,0.45,PASSED
+Thermal_Lag_Phase_Shift,Hours,4.2,4.0,-0.2,-4.76,PASSED

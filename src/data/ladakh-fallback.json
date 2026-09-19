@@ -1,0 +1,16 @@
+{
+  "location": "Leh, Ladakh, India",
+  "latitude": 34.1526,
+  "longitude": 77.5771,
+  "nightTempC": -15,
+  "dayTempC": 8,
+  "peakSolarRadiationWm2": 850,
+  "annualIrradianceKwhM2": 2000,
+  "sunshineHoursPerDay": 7.9,
+  "cloudFreeDaysPerYear": 300,
+  "windSpeedMs": 4.5,
+  "humidityPct": 25,
+  "altitudeM": 3500,
+  "simulationDate": "2026-01-15",
+  "targetComfortTempC": 15
+}

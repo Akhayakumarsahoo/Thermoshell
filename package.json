@@ -1,0 +1,32 @@
+{
+  "name": "thermoshelter",
+  "version": "1.0.0",
+  "description": "Area-Specific Passive Shelter Thermal Design Software — SIH 2026 Problem Statement 26051",
+  "type": "module",
+  "main": "index.html",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "node test/engine.test.js"
+  },
+  "keywords": [
+    "thermal-design",
+    "passive-shelter",
+    "sih2026",
+    "drdo",
+    "ladakh",
+    "climate-resilient"
+  ],
+  "author": "ThermoShelter Team",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^26.6.1",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "next": "^16.3.5",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}
