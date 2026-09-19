@@ -20,6 +20,8 @@ export interface ClimateState {
   altitudeM: number;
   simulationDate: string;
   targetComfortTempC: number;
+  hourlyOutdoorTempC?: number[];
+  hourlySolarIrradiance?: number[];
   isLive?: boolean;
   source?: string;
 }
